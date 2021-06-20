@@ -5,7 +5,7 @@ A command line tool to reverse string written in Go.
 
  1. Download it.
  2. Find the `main.go` file.
- 3. Open the terminal and type `go build main.go`.
+ 3. Open the terminal and type `go build main.go` and hit enter.
  4. A new `main(.exe)` file will be generated.
  5. Now just do `./main skrow ti dlrow olleh`
 
